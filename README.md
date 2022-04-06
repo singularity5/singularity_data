@@ -1,2 +1,3 @@
-# singularity_data
-Singularity Data
+# Singularity Data
+
+This repository hosts the data for the singularity project.
